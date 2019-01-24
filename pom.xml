@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8081/repository/Sample-Rel/</url>
+            <url>http://localhost:8081/repository/Sample-rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
